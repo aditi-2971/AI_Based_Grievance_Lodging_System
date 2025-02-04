@@ -1,0 +1,519 @@
+Complaint ID,Complaint Text,Department
+1,The street lights are not working properly,Electricity
+2,Garbage collection has been irregular for a week,Sanitation
+3,Water supply has been disrupted for two days,Water
+4,The road near my house has several potholes,Public Work
+5,The traffic signals at the intersection are faulty,Traffic
+6,The local clinic has long waiting times,Health
+7,The power lines in my area are damaged.,Electricity
+8,The sewer system is clogged and causing flooding.,Sanitation
+9,There is no water supply in our locality,Water
+10,The sidewalk needs repair due to cracks,Public Work
+11,The traffic congestion in the main market is severe,Traffic
+12,The health clinic has inadequate staff,Health
+13,Electricity supply is frequently interrupted,Electricity
+14,Trash bins are overflowing in the park.,Sanitation
+15,The water quality is poor and contaminated,Water
+16,The public road construction is incomplete,Public Work
+17,The traffic lights on the highway are not functional,Traffic
+18,There are not enough doctors in the hospital,Health
+19,There is a power outage in the neighborhood,Electricity
+20,There is garbage piled up in the residential area.,Sanitation
+21,Water pipes are leaking and causing water loss.,Water
+22,The street requires proper paving,Public Work
+23,There is a lack of parking regulation on busy streets,Traffic
+24,The health center lacks proper medical equipment,Health
+25,Street lights are flickering during the night,Electricity
+26,There is no regular garbage collection in the area.,Sanitation
+27,The water pressure is very low in the taps,Water
+28,The road construction work is delayed,Public Work
+29,Traffic police are not managing peak hour traffic,Traffic
+30,The local hospital has poor hygiene conditions,Health
+31,Power cables are lying exposed on the streets,Electricity
+32,Uncollected garbage is attracting pests in the area,Sanitation
+33,There is a water leak on the main street,Water
+34,The pedestrian crossing is damaged,Public Work
+35,Vehicles are often parked illegally in no-parking zones,Traffic
+36,The pharmacy in the hospital has run out of medicines.,Health
+37,The street lights in my area are not working for the past week.,Electricity
+38,There is no water supply in the morning for the past three days.,Water
+39,The garbage has not been collected in our area for a week.,Sanitation
+40,"A pothole has appeared in the main road, causing traffic issues.",Public Works
+41,The traffic lights at the intersection are not functioning properly.,Traffic
+42,The public hospital in my area lacks proper sanitation.,Health
+43,"Frequent power outages in the evening, disrupting daily life.",Electricity
+44,There is a major leak in the water pipeline in our street,Water
+45,"Garbage is piling up in the neighborhood, and it's attracting rodents.",Sanitation
+46,The footpath on the main street is damaged and dangerous to walk on.,Public Works
+47,The traffic congestion near the school area is unbearable during peak hours.,Traffic
+48,The hospital is running out of essential medicines and needs immediate supply.,Health
+49,"The street transformer has been malfunctioning, causing power fluctuations.",Electricity
+50,Our water supply has been contaminated with dirt and impurities.,Water
+51,"The drainage system in our area is clogged, leading to waterlogging.",Sanitation
+52,"Road construction work has been halted midway, causing inconvenience.",Public Works
+53,The traffic police are not managing the junction during rush hours properly.,Traffic
+54,"The hospital staff are rude, and the hygiene is terrible.",Health
+55,Voltage fluctuations are damaging appliances in the locality.,Electricity
+56,There is a broken water pipe in our society that is causing water wastage.,Water
+57,"The neighborhood park is filled with litter, and no one is cleaning it.",Sanitation
+58,The newly constructed road has developed cracks and potholes already.,Public Works
+59,"The zebra crossing at the traffic signal is worn out, causing confusion.",Traffic
+60,The health clinic in my area is overcrowded and lacks proper ventilation.,Health
+61,There are frequent tripping and short circuits in the electric line.,Electricity
+62,The water in my tap is coming out with low pressure.,Water
+63,The public toilets in the market are extremely unhygienic,Sanitation
+64,The road work near our colony has been pending for several months.,Public Works
+65,"The pedestrian signal takes too long to change, causing delays for walkers",Traffic
+66,"The hospital emergency services are slow, and patients are not attended to.",Health
+67,Frequent electric surges have been damaging home appliances.,Electricity
+68,"The water pipeline has been leaking for several days, wasting water.",Water
+69,"The streets are not being cleaned regularly, and garbage is piling up.",Sanitation
+70,"The speed breakers on the main road are not visible at night, causing accidents.",Public Works
+71,"The traffic signals are not synchronized, leading to heavy congestion.",Traffic
+72,The hospital has insufficient beds for patients.,Health
+73,The electricity supply is frequently getting interrupted during peak hours.,Electricity
+74,"Water quality in our area is bad, and it smells foul.",Water
+75,"The public dustbins are overflowing, and no one is collecting the garbage.",Sanitation
+76,"The newly built bridge has cracks, and it seems unsafe.",Public Works
+77,"The traffic signs are missing near the construction area, causing confusion",Traffic
+78,The public health center has inadequate facilities for treatment,Health
+79,"The electric poles are too close to the road, and accidents are happening",Electricity
+80,Water is being wasted due to a burst pipe on the main street.,Water
+81,"The streets in our area are filled with plastic waste, and it's not being cleaned.",Sanitation
+82,"The footpath is uneven, making it difficult for the elderly to walk.",Public Works
+83,The traffic congestion during office hours is unbearable due to improper signals.,Traffic
+84,The hospital lacks proper equipment for patient treatment.,Health
+85,The streetlights have been flickering and sometimes don't work at all.,Electricity
+86,"The water supply timing is erratic, and we receive water at odd hours",Water
+87,"Garbage trucks are not coming regularly, leading to accumulation of waste",Sanitation
+88,Potholes on the road are getting larger and more dangerous for vehicles.,Public Works
+89,"The traffic police are not present during peak hours, causing traffic jams.",Traffic
+90,"The hospital is understaffed, and patients are waiting for hours.",Health
+91,"Power supply is inconsistent in the evenings, making it hard to work.",Electricity
+92,There is a serious water scarcity issue in our locality for the past week.,Water
+93,Public toilets in the bus station are not maintained properly.,Sanitation
+94,The road repair work has left debris and construction material on the road.,Public Works
+95,"The traffic signal near the hospital is not working, causing a lot of confusion.",Traffic
+96,"The health center is not maintaining hygiene standards, and there are bugs everywhere.",Health
+97,"The street lights in the park have been out for days, making it unsafe at night.",Electricity
+98,The water supply has a foul smell and seems unsafe for consumption.,Water
+99,"Garbage collection is irregular, and waste is piling up outside the market.",Sanitation
+100,The newly paved road has already developed potholes due to poor quality.,Public Works
+101,The traffic near the shopping mall is chaotic due to improper signal timing,Traffic
+102,"The hospital’s emergency services are understaffed, causing long wait times.",Health
+103,"Power supply in our area is unreliable, and there are frequent blackouts.",Electricity
+104,"Water is leaking from the pipes outside our building, causing flooding.",Water
+105,The public park is filled with litter and is not being cleaned regularly.,Sanitation
+106,"The bridge construction work has been delayed, causing traffic disruption",Public Works
+107,Traffic congestion near the school is unbearable during drop-off and pick-up hours.,Traffic
+108,The public health center lacks basic medical equipment and supplies,Health
+109,The street transformer exploded and caused a power outage in the neighborhood.,Electricity
+110,The water supply has been disrupted for several days without any notice.,Water
+111,"The sewage system is overflowing, and the area smells foul.",Sanitation
+112,"The road in front of our house has cracks, making it unsafe for vehicles.",Public Works
+113,"Traffic signals at the crossroad are malfunctioning, causing confusion.",Traffic
+114,"The hospital is overcrowded, and patients are not being attended to promptly.",Health
+115,The street lights have been flickering and are about to go out.,Electricity
+116,The water in our building is not reaching the upper floors due to low pressure,Water
+117,"Public bins in our locality are overflowing, and waste management is poor.",Sanitation
+118,The bridge near the river is showing signs of structural damage.,Public Works
+119,The traffic police are not managing the traffic during peak hours properly.,Traffic
+120,The hospital’s pharmacy is out of stock for essential medicines.,Health
+121,Frequent power surges are damaging electrical appliances in the area.,Electricity
+122,The water supplied to our area is muddy and unfit for consumption.,Water
+123,"The street cleaners haven’t been coming regularly, and the streets are dirty.",Sanitation
+124,The road leading to the highway has deep potholes that need immediate repair.,Public Works
+125,The traffic signal timing at the main intersection is causing long delays.,Traffic
+126,"The hospital lacks proper sanitation, and the wards are unhygienic",Health
+127,The electricity in our area cuts off multiple times throughout the day,Electricity
+128,"The water pressure in the entire colony is low, causing inconvenience.",Water
+129,The public toilets near the park are not being maintained properly.,Sanitation
+130,"The road leading to the market is uneven, causing difficulty for vehicles.",Public Works
+131,"The traffic signals at the junction are out of sync, causing accidents.",Traffic
+132,"The health clinic is overcrowded, and patients are being turned away.",Health
+133,"The street lights on the main road are too dim, making it hard to see at night",Electricity
+134,The water supply to our area is irregular and often arrives late at night.,Water
+135,"The garbage collectors skip our area regularly, leaving trash on the streets",Sanitation
+136,The newly constructed road has started to crack after heavy rains.,Public Works
+137,The traffic in front of the hospital is causing delays for ambulances.,Traffic
+138,The public hospital has run out of basic medical supplies for patients.,Health
+139,The streetlight near my house is broken and needs to be repaired.,Electricity
+140,Water leaking from the main pipeline is flooding the street.,Water
+141,"The waste management system in our area is broken, and garbage is everywhere",Sanitation
+142,"The new road surface is uneven, and vehicles are struggling to drive on it.",Public Works
+143,"The traffic light at the mall entrance is broken, causing traffic congestion.",Traffic
+144,"The hospital is understaffed, and wait times are too long for treatment.",Health
+145,"Power cuts are happening every few hours, disrupting daily activities.",Electricity
+146,The water supplied to our area is not clean and has a bad odor.,Water
+147,The street lights are not working.,Electricity
+148,There is a garbage pile near my house,Sanitation
+149,The water supply is irregular.,Water
+150,The road has many potholes.,Sanitation
+151,Traffic lights are malfunctioning.,Traffic
+152,The sidewalk is broken and dangerous.,Public Works
+153,My electricity bill is too high. There might be fault in the meter.,Electricity
+154,There are stray animals in the neighborhood.,Public Works
+155,"Water quality is poor, it smells bad",Water
+156,The traffic is very congested during rush hour.,Traffic
+157,The electric meter is faulty.,Electricity
+158,There is no garbage collection in my area.,Sanitation
+159,I have no water supply for two days.,Water
+160,The road is too narrow for two cars.,Public Works
+161,A traffic accident happened at the junction.,Traffic
+162,The power outage lasted for hours last night.,Electricity
+163,There is an open sewer near my house.,Sanitation
+164,My tap water is brown and dirty.,Water
+165,The road repair work is incomplete.,Public Works
+166,Traffic congestion is increasing every day.,Traffic
+167,The streetlight is flickering at night.,Electricity
+168,Garbage bins are overflowing.,Sanitation
+169,There is a leak in the water supply line.,Water
+170,The pavement is cracked and uneven.,Public Works
+171,There are too many speed bumps on the road.,Traffic
+172,The electric supply is unstable.,Electricity
+173,There is a bad smell coming from the garbage.,Sanitation
+174,The water pressure is very low.,Water
+175,The sidewalk is blocked by construction.,Public Works
+176,Traffic signs are missing at the intersection.,Traffic
+177,The power cuts are frequent in my area.,Electricity
+178,There is a lot of litter in the park,Sanitation
+179,The road is damaged due to heavy rain.,Public Works
+180,I witnessed a hit-and-run accident.,Traffic
+181,The power outage is affecting my work.,Electricity
+182,The public toilet is dirty and not maintained.,Sanitation
+183,I have a water leakage issue in my area.,Water
+184,The footpath is in disrepair.,Public Works
+185,There are too many potholes in the street.,Sanitation
+186,The electric wires are exposed and dangerous.,Electricity
+187,The water tank is empty.,Water
+188,The roads need immediate repair after the rains.,Public Works
+189,The traffic jams are unbearable during holidays.,Traffic
+190,The streetlights are not bright enough.,Electricity
+191,Garbage is not being collected regularly.,Sanitation
+192,The water is not potable.,Water
+193,There are cracks in the road due to construction.,Public Works
+194,The traffic is chaotic at the peak hours.,Traffic
+195,There is a broken street sign causing confusion.,Public Works
+196,The pharmacy is out of stock on essential medicines,Health
+197,I found broken glass on the sidewalk.,Public Works
+198,There are frequent power fluctuations in my area.,Electricity
+199,The speed limit signs are not visible.,Public Works
+200,There are weeds growing on the park's walking path.,Sanitation
+201,The crosswalk is poorly marked.,Public Works
+202,Someone is littering in the community garden.,Sanitation
+203,I see illegal dumping near the river,Sanitation
+204,The traffic cones are not placed properly for detours.,Traffic
+205,My street is too dark at night as the streetlights are very dim.,Electricity
+206,The local park has insufficient benches.,Public Works
+207,There is a lack of public restrooms in the area.,Public Works
+208,The electric lines are hanging low near my house.,Electricity
+209,The recycling bins are often full.,Sanitation
+210,There is an unregistered vehicle parked on the street.,Traffic
+211,The local pool needs maintenance.,Public Works
+212,There are slippery sidewalks in winter.,Public Works
+213,The community needs a better recycling program.,Sanitation
+214,The bus stop needs a shelter for rain protection.,Public Works
+215,My electricity bill has increased without notice.,Electricity
+216,The water pressure is too low in my apartment.,Water
+218,There are large potholes causing damage to my vehicle.,Public Works
+218,The garbage collection is late this week.,Sanitation
+219,Traffic lights are malfunctioning at the main intersection.,Traffic
+220,The street lights are flickering and need repair.,Electricity
+221,There is a sewage leak on my street.,Sanitation
+222,The road construction is blocking access to my house.,Public Works
+223,My neighborhood experiences frequent power outages.,Electricity
+224,The drinking water smells bad.,Water
+225,The sidewalks need resurfacing due to cracks.,Public Works
+226,The trash bins are overflowing and attracting pests.,Sanitation
+227,There are too many cars parked on the sidewalk.,Traffic
+228,The water main is leaking and needs urgent repair.,Water
+229,There are construction materials left on the road.,Public Works
+230,The park restrooms are filthy and need cleaning,Public Works
+231,The traffic signals are too short for pedestrians.,Traffic
+232,The electric meter is not working correctly.,Electricity
+233,I see stagnant water in the drainage ditch.,Water
+234,The roads are too narrow for two-way traffic.,Traffic
+235,The street needs better signage for directions.,Public Works
+236,The electric poles are leaning dangerously.,Electricity
+237,The sanitation crew missed my house again.,Sanitation
+238,The neighborhood park lights are broken and it's too dark.,Electricity
+239,The water quality is poor and causes skin irritation.,Water
+240,There are frequent power surges causing appliance damage.,Electricity
+241,I witnessed a hazardous waste dump near my area.,Sanitation
+242,The crosswalk markings are fading and hard to see.,Public Works
+243,My home has been without power for over 12 hours,Electricity
+244,There is no access to clean drinking water in my locality.,Water
+245,The main road has too many bumps and needs repair.,Public Works
+246,The community restrooms need regular maintenance.,Sanitation
+247,The bus stops lack shelters for waiting passengers.,Public Works
+248,The electric supply in my area is unstable and unpredictable.,Electricity
+249,There are leaks in the public water pipes near the school.,Water
+250,The road signage is unclear and confusing to drivers.,Public Works
+251,I have seen rats in the public areas due to poor sanitation.,Sanitation
+252,Water supply is often cut off without notice,Water
+253,The city roads are being repaved but it's taking too long.,Public Works
+254,I found debris blocking the storm drains after the rain,Sanitation
+255,Traffic jams are common due to poorly timed signals.,Traffic
+256,The power lines need to be buried for safety.,Electricity
+257,The local reservoir is not being cleaned regularly.,Water
+258,There are no bike lanes on major roads causing accidents.,Traffic
+259,Public parks lack proper waste disposal bins.,Public Works
+260,The electric grid in my area is outdated and needs upgrades.,Electricity
+261,I noticed an increase in mosquitoes near the stagnant water.,Sanitation
+262,"The roads have too many potholes, making driving hazardous",Public Works
+263,The street lights have been flickering all night.,Electricity
+264,The water bill has increased but the supply remains irregular.,Water
+265,The bridge construction has been delayed for months.,Public Works
+266,The garbage bins are overflowing and not being emptied.,Sanitation
+267,The traffic lights at the intersection malfunction during rush hour,Traffic
+268,"Power cuts have become frequent, affecting daily activities.",Electricity
+269,My water has a strange smell and isn't safe to drink.,Water
+270,The sidewalk is cracked and poses a danger to pedestrians.,Public Works
+271,Public toilets in the park are not cleaned regularly.,Sanitation
+272,The traffic congestion during school hours is unbearable.,Traffic
+273,The voltage fluctuations have caused damage to my electronics.,Electricity
+274,The water tankers arrive late and provide insufficient supply.,Water
+275,The playground is unsafe due to broken equipment.,Public Works
+276,There is a bad odor coming from the open drains.,Sanitation
+277,Speeding cars in residential areas are causing accidents.,Traffic
+278,There are exposed electrical wires near the park.,Electricity
+279,Water logging occurs after every rainfall due to poor drainage,Public Works
+280,The footpaths are uneven and need leveling.,Public Works
+281,Stray dogs are a problem due to poor waste management,Sanitation
+282,The traffic signals at the market are always malfunctioning,Traffic
+283,The frequent blackouts are causing trouble during the evenings.,Electricity
+284,"The water supply is often contaminated, leading to illness.",Water
+285,The main road construction is causing long traffic jams.,Public Works
+286,There is illegal dumping in the open fields near our area.,Sanitation
+287,Speed bumps are needed on this road to prevent accidents.,Traffic
+288,My area is prone to blackouts during heavy rains,Electricity
+289,Traffic congestion is becoming unbearable during rush hour.,Traffic
+290,"Power surges are frequent during the afternoons, damaging appliances.",Electricity
+291,"The water pipeline in our street has burst, causing a flood.",Water
+292,The construction of the flyover has been halted for weeks.,Public Works
+293,The public dustbins are broken and need replacement.,Sanitation
+294,The pedestrian crossing lights are not functioning properly.,Traffic
+295,Electricity is frequently cut off without any prior notice.,Electricity
+296,Our area has been receiving muddy water for the past week.,Water
+297,"Potholes on the road are causing accidents, but no repairs have been made.",Public Works
+298,There's an illegal dumping ground developing in the neighborhood.,Sanitation
+299,The road is too narrow and causes daily traffic jams during peak hours.,Traffic
+300,The power lines have been dangling dangerously low after the storm.,Electricity
+301,"The water pressure is too low, making it difficult to fill the tank",Water
+302,The new road construction project is blocking access to local shops.,Public Works
+303,"The drains are clogged, leading to water stagnation in the streets.",Sanitation
+304,"The traffic on the main highway moves too fast, making it unsafe for pedestrians.",Traffic
+305,Power outages are common during the night in our neighborhood.,Electricity
+306,We’ve been experiencing voltage fluctuations since the power upgrade.,Electricity
+307,"The water pipeline repairs are taking too long, leaving us without water.",Water
+308,"The sidewalks are too narrow for disabled access, creating difficulties.",Public Works
+309,"The garbage collection is irregular, leading to trash piling up on the streets.",Sanitation
+310,"The traffic signal timers are inconsistent, causing confusion.",Traffic
+311,The drinking water is coming out with rust particles.,Water
+312,The park’s walking path is broken and dangerous for elderly people.,Public Works
+313,Open sewage is causing a foul smell in our neighborhood.,Sanitation
+314,The traffic congestion near the railway station is out of control.,Traffic
+315,"Power lines have been exposed after the recent rains, posing a safety hazard.",Electricity
+316,"The water supply is inconsistent, especially during peak hours.",Water
+317,"The street lights are not operational in our area, making it unsafe at night.",Public Works
+318,"The garbage bins are overflowing, and no collection has been done in over a week.",Sanitation
+319,"The traffic signals at the main junction often malfunction, causing long delays.",Traffic
+320,"We are experiencing frequent voltage drops, causing disruptions in electrical appliances.",Electricity
+321,There are no medical staff available in the health center during weekends.,Health
+322,"We are experiencing frequent voltage drops, causing disruptions in electrical appliances.",Electricity
+324,"The water quality has deteriorated, with a strong chlorine smell in the supply.",Water
+324,"Road construction work has left large debris on the roadside, blocking paths.",Public Works
+325,Uncollected trash has become a breeding ground for insects in our locality.,Sanitation
+326,"The traffic lights at the school crossing are not timed properly, leading to confusion.",Traffic
+327,The health center is running low on basic medicines for common illnesses.,Health
+328,The power transformer near our house makes loud noises and sparks during rain,Electricity
+329,"The underground water pipes have started leaking again, creating a mess on the street.",Water
+330,"The public park renovation has been delayed, leaving it in an unusable state.",Public Works
+331,"The street gutters are clogged, causing water to overflow onto the roads.",Sanitation
+332,The traffic near the mall is causing massive jams during the evenings.,Traffic
+333,The government hospital lacks proper diagnostic equipment for patients.,Health
+334,Our neighborhood faces electricity cuts every day without any prior notice.,Electricity
+335,Water from the taps is discolored and smells foul.,Water
+336,The construction of new sidewalks has blocked access to local businesses.,Public Works
+337,The community dump yard is causing a strong odor that spreads throughout the day.,Sanitation
+338,The pedestrian crossing signals are not visible clearly due to overgrown trees.,Traffic
+339,"The transformer in our area often overheats, causing power cuts during peak hours",Electricity
+340,"The local reservoir has not been cleaned, affecting the water quality in our area.",Water
+341,"Road work in our area has been incomplete for months, causing disruption to daily activities.",Public Works
+342,"The drainage system is blocked, leading to waterlogging in front of our house.",Sanitation
+343,"The traffic lights at the intersection are out of sync, leading to accidents.",Traffic
+344,Frequent power surges are damaging electronic devices in our locality.,Electricity
+345,"The water pressure is too low, making it difficult to fill tanks or use appliances.",Water
+346,Potholes on the newly constructed road have reappeared after recent rains.,Public Works
+347,"Garbage is being dumped on the roadside, and no action is being taken to clear it.",Sanitation
+348,"Traffic police are absent during peak hours, leading to chaos at the main junction.",Traffic
+349,"The street lights flicker continuously at night, causing inconvenience and safety concerns.",Electricity
+350,Our drinking water supply has been intermittent with no clear schedule of when it will be restored,Water
+351,"The construction site near the market has not installed proper safety barriers, endangering pedestrians.",Public Works
+352,"The waste collection truck has not serviced our area for several days, leading to a buildup of trash.",Sanitation
+353,"The traffic signal system at the intersection often shuts down, creating confusion",Traffic
+354,Power cuts are more frequent in our area compared to other parts of the city.,Electricity
+355,"The water pipeline repair work is delayed, causing water shortages in several households.",Water
+356,There is no signage or proper lighting near the construction area on the highway.,Public Works
+357,Overflowing drains are attracting pests and causing a foul smell in the neighborhood,Sanitation
+358,The traffic lights near the bus station are not visible during foggy conditions,Traffic
+359,"The voltage fluctuations have become severe, causing blackouts for extended periods",Electricity
+360,"The local water supply contains high amounts of sediment, making it unsafe to drink",Water
+361,"Road repair work is blocking access to the local school, creating difficulties for children.",Public Works
+362,"Garbage trucks are missing scheduled pickups, leading to overflowing dumpsters in residential areas",Sanitation
+363,"There is no traffic signal at a busy intersection, leading to frequent near-accidents.",Traffic
+364,"The street lights are malfunctioning, creating dark spots in otherwise busy areas.",Electricity
+365,"The water tankers supplying the area are inconsistent, leading to scarcity in some homes",Water
+366,"Public construction work is disrupting the footpath, forcing pedestrians to walk on the busy road.",Public Works
+367,"Drainage systems are poorly maintained, and wastewater is flowing back onto the streets.",Sanitation
+368,"The traffic signals at the crossroad are not functional, causing a bottleneck during rush hours.",Traffic
+369,Voltage fluctuations in our area cause appliances to malfunction frequently,Electricity
+370,Water leakage from underground pipes is leading to wastage and low pressure.,Water
+371,The newly constructed road is already showing cracks due to poor material quality.,Public Works
+372,The garbage bins in our colony are overflowing as they haven't been emptied in days.,Sanitation
+373,Illegal parking near the market is blocking traffic flow and creating congestion,Traffic
+374,There is a shortage of essential medicines at the government health cente,Health
+375,"Power outages are occurring without prior notice, causing inconvenience to businesses.",Electricity
+376,"The water supply has a strong odor, making it unsafe for household use.",Water
+377,"Roadside repair work has been left incomplete, creating hazards for pedestrians.",Public Works
+378,Stray animals are scattering garbage as waste collection is delayed.,Sanitation
+379,"The pedestrian crossing signal at the main square is non-functional, leading to accidents.",Traffic
+380,"The local hospital is running out of staff, leading to delays in patient treatment",Health
+381,"The street lights in our area remain on during the day, leading to power wastage.",Electricity
+382,Contaminated water supply is causing stomach-related illnesses in our neighborhood.,Water
+383,The construction debris from a government project is blocking the sidewalk.,Public Works
+384,"The drain near our locality is clogged, leading to waterlogging during rains.",Sanitation
+385,"The zebra crossing markings have faded, making it difficult for pedestrians to cross safely.",Traffic
+386,"The vaccination center is overcrowded, with people waiting for hours in queues",Health
+387,The power transformers in our area are outdated and fail frequently,Electricity
+388,"The newly installed water meters are not functioning correctly, leading to incorrect billing.",Water
+389,"The flyover construction is delayed, causing massive traffic jams during peak hours",Public Works
+390,"The sanitation workers skip certain lanes, leaving garbage uncollected in many areas",Sanitation
+391,"There is no pedestrian bridge near the highway, making it risky for people to cross.",Traffic
+392,"The hospital lacks proper emergency response facilities, delaying critical patient care.",Health
+393,Live electrical wires are hanging dangerously low near a school area.,Electricity
+394,"Water pipelines burst frequently, leading to wastage and road damage.",Water
+395,"The bridge construction is stalled, creating an inconvenience for commuters.",Public Works
+396,Open garbage dumping near residential areas is causing a severe hygiene issue.,Sanitation
+397,"Unauthorized vendors occupy the sidewalks, worsening traffic congestion.",Traffic
+398,The maternity ward in the government hospital lacks proper facilities and hygiene.,Health
+399,"Street lights in our area remain off at night, making it unsafe for pedestrians.",Electricity
+400,"The water pressure in our locality is too low, making daily chores difficult.",Water
+401,The newly constructed pavement is already breaking apart due to poor quality work.,Public Works
+402,"The drainage system in our colony is blocked, causing a foul smell and mosquito breeding.",Sanitation
+403,"Traffic signals at the main intersection are not working, leading to frequent accidents.",Traffic
+404,The government hospital has insufficient wheelchairs for disabled patients,Health
+405,Electrical poles in our area are leaning dangerously and need immediate repair.,Electricity
+406,"The water tankers arrive irregularly, making it hard for residents to store water.",Water
+407,Broken footpaths are making it difficult for elderly people to walk safely,Public Works
+408,"Garbage collection trucks do not arrive on time, leading to heaps of waste on roadsides.",Sanitation
+409,Unauthorized U-turns near the highway are causing severe traffic congestion.,Traffic
+410,"The public health clinic is facing a shortage of doctors, delaying patient care",Health
+411,Exposed electrical wiring in public parks poses a risk to children playing.,Electricity
+412,"The water supply is inconsistent, with no prior notice of shutdowns.",Water
+413,The potholes on major roads are causing vehicle damage and accidents.,Public Works
+414,Public toilets are in an unhygienic state and lack proper maintenance,Sanitation
+415,Illegal auto-rickshaw stands are obstructing smooth traffic flow.,Traffic
+416,"The district hospital lacks proper ventilation, making it uncomfortable for patients.",Health
+417,"The transformer in our area sparks frequently, posing a fire hazard.",Electricity
+418,"Water pipelines are leaking near the main road, wasting thousands of liters daily.",Water
+419,Delayed road repair work is causing daily traffic jams.,Public Works
+420,"Dead animals on roads are not being removed promptly, creating a hygiene issue.",Sanitation
+421,Lack of proper signboards at intersections is confusing drivers.,Traffic
+422,The emergency ward in the city hospital is overcrowded and lacks proper staffing.,Health
+423,"The electric substation in our area frequently trips, cutting power for hours.",Electricity
+424,"The water storage tank in our society has not been cleaned in months, leading to contamination.",Water
+425,"The underpass construction is taking too long, causing inconvenience to commuters.",Public Works
+426,Open drains near residential areas are causing mosquito infestation.,Sanitation
+427,"The pedestrian overbridge has broken railings, making it unsafe for use.",Traffic
+428,The maternity clinic does not have enough beds for expecting mothers.,Health
+429,"The street lights in our colony are broken, making it unsafe at night.",Electricity
+430,The water pipelines in our area are rusted and need immediate replacement.,Water
+431,The main road in our locality has large cracks and is unsafe for vehicles.,Public Works
+432,"The garbage collectors are skipping some streets, leaving waste uncollected.",Sanitation
+433,"The traffic police are not present at a busy junction, leading to frequent congestion.",Traffic
+434,The government clinic has a long waiting list for medical checkups.,Health
+435,The electric meter in my house is faulty and showing incorrect readings.,Electricity
+436,"The water supply is contaminated with mud, making it unfit for drinking.",Water
+437,The pedestrian walkway near the market is damaged and needs urgent repairs.,Public Works
+438,The community garbage disposal area is not being cleaned regularly.,Sanitation
+439,The traffic lights at the railway crossing are not functioning properly.,Traffic
+440,The district hospital does not have enough staff to handle emergencies.,Health
+441,Frequent voltage fluctuations are damaging household electrical appliances.,Electricity
+442,"There is no proper drainage system, causing water to accumulate on roads.",Water
+443,"The bridge repair work has been pending for months, causing traffic disruptions.",Public Works
+444,"Stray dogs are tearing open garbage bags, spreading waste across the streets.",Sanitation
+445,The absence of speed breakers near schools is making it dangerous for children.,Traffic
+446,"The X-ray machine at the local hospital is not working, delaying diagnostics.",Health
+447,The power lines near my house are hanging too low and are hazardous.,Electricity
+448,The water connection is frequently disrupted without prior notice.,Water
+449,"The potholes on highways are getting deeper, making travel unsafe.",Public Works
+450,"The public restrooms lack water supply, making them unusable.",Sanitation
+451,The lack of traffic signals near the school is a serious safety concern.,Traffic
+452,The nearest government hospital is facing a shortage of essential medicines.,Health
+53,The electricity poles in my area are rusting and need urgent replacement.,Electricity
+454,The water bill is too high despite irregular supply.,Water
+455,The footpath near the bus stop is damaged and causing pedestrian accidents.,Public Works
+456,"The waste collection truck arrives late at night, causing disturbance.",Sanitation
+457,The absence of proper road signs is making it difficult for new drivers.,Traffic
+458,"The local clinic is facing a shortage of nurses, affecting patient care.",Health
+459,"The street lights on the highway have been off for a week, creating dangerous conditions.",Electricity
+460,The water tankers are not delivering water to our area as per the schedule.,Water
+461,The road near my house has been dug up for repair but left incomplete.,Public Works
+462,The public waste bins are broken and need urgent replacement.,Sanitation
+463,The traffic congestion near the school is getting worse due to lack of speed bumps.,Traffic
+464,The nearest health center is running out of vaccines for children.,Health
+465,"The transformer in our locality makes a loud buzzing sound, indicating a fault.",Electricity
+466,"The water pipes burst every few months, causing major inconvenience.",Water
+467,The newly constructed sidewalk is already cracked and uneven.,Public Works
+468,"The sanitation workers do not visit my lane regularly, leaving garbage piles behind.",Sanitation
+469,"The traffic lights at the roundabout are not synchronized, causing confusion.",Traffic
+470,The government hospital does not have enough oxygen cylinders for emergency cases,Health
+471,The street lights stay on during the day and waste electricity.,Electricity
+472,"The drinking water supply is irregular, making it difficult to store enough water.",Water
+473,The potholes in the main road are causing tire damage to vehicles.,Public Works
+474,The waste collection workers are not wearing protective gear while handling garbage.,Sanitation
+475,The lack of pedestrian crossings is causing accidents on busy roads.,Traffic
+476,The hospital pharmacy is always out of stock for basic medicines.,Health
+477,The electric wiring in old buildings needs urgent maintenance to prevent fire hazards.,Electricity
+478,The underground water pipeline leaks have been ignored for months.,Water
+479,"The flyover construction is delayed, increasing traffic congestion",Public Works
+480,The open garbage dump is attracting stray animals and pests.,Sanitation
+481,"The traffic signals do not work properly during peak hours, leading to jams.",Traffic
+482,The emergency ward at the city hospital lacks enough beds for patients.,Health
+483,The high-voltage wires near my house are too close to trees and pose a fire risk.,Electricity
+484,"The water filters at the public tap are clogged, making it hard to access clean water.",Water
+485,The bridge connecting two main roads is weak and needs urgent repairs.,Public Works
+486,The drains overflow during the monsoon due to lack of maintenance.,Sanitation
+487,The lack of proper U-turn points is causing reckless driving and accidents.,Traffic
+488,The health department has not conducted health checkup camps in our area for years.,Health
+489,"The street lights in my area have been out for over a month, creating safety concerns.",Electricity
+490,The water supply has been completely cut off for two days without any prior notice.,Water
+491,The newly paved road has started to develop cracks within a few weeks.,Public Works
+492,"The garbage collection truck skips our street frequently, leading to trash accumulation.",Sanitation
+493,Illegal parking near the metro station is blocking the movement of vehicles.,Traffic
+494,"The district hospital lacks enough doctors for outpatient services, causing long queues.",Health
+495,"The transformer in our neighborhood is overloaded and often trips, cutting off power.",Electricity
+496,Water contamination in our area has led to multiple cases of stomach infections,Water
+497,"The road divider on the highway is broken, increasing the risk of accidents.",Public Works
+498,"Open drains near my locality have been left uncovered, posing a serious health risk.",Sanitation
+499,The traffic lights at the busiest junction are not operational during peak hours.,Traffic
+500,The public health center lacks sufficient medical equipment for diagnostics.,Health
+501,"The power cables in my area are frequently sparking, causing fear of short circuits.",Electricity
+502,"The water pipeline construction work has been delayed for months, causing inconvenience.",Water
+503,"The sidewalks are too narrow, forcing pedestrians to walk on busy roads.",Public Works
+504,The sanitation workers are dumping garbage in open spaces instead of designated areas.,Sanitation
+504,The lack of proper traffic signals near the school zone is making it unsafe for children.,Traffic
+506,The government hospital lacks proper waiting areas for patients and their attendants.,Health
+507,Frequent voltage fluctuations are affecting the functioning of household appliances.,Electricity
+508,"The underground water pipes are leaking, leading to significant water wastage.",Water
+509,"The flyover construction is causing major traffic diversions, increasing travel time.",Public Works
+510,The public toilets in our area are not maintained and have become unusable.,Sanitation
+511,"Traffic police are rarely seen at busy intersections, leading to reckless driving.",Traffic
+512,"The nearest hospital lacks a proper maternity ward, forcing pregnant women to travel far.",Health
+513,"The transformer in our locality makes loud noises, indicating an urgent repair need.",Electricity
+514,The water bills have increased suddenly without any changes in consumption patterns.,Water
+515,"The newly built bridge has no pedestrian walkway, making it risky for walkers.",Public Works
+516,Stray dogs are increasing in number due to garbage mismanagement in our locality.,Sanitation
+517,The absence of proper lane markings is leading to frequent traffic congestion.,Traffic
+518,The emergency room in the government hospital is always overcrowded with no proper management.,Health

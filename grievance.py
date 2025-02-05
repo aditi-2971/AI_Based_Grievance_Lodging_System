@@ -19,9 +19,6 @@ print("Missing values in 'Complaint Text':", df['Complaint Text'].isnull().sum()
 # Option A: Remove rows with missing values
 df = df.dropna(subset=['Complaint Text'])
 
-# Option B: Fill missing values with an empty string
-# df['Complaint Text'] = df['Complaint Text'].fillna('')
-
 # Step 4: Label Encoding
 label_encoder = LabelEncoder()
 df['department_encoded'] = label_encoder.fit_transform(df['Department'])

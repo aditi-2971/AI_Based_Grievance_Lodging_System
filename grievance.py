@@ -16,7 +16,7 @@ df = pd.read_csv('Dataset.csv', encoding='latin1')
 # Check for missing values in the 'Complaint Text' column
 print("Missing values in 'Complaint Text':", df['Complaint Text'].isnull().sum())
 
-# Option A: Remove rows with missing values
+# Remove rows with missing values
 df = df.dropna(subset=['Complaint Text'])
 
 # Step 4: Label Encoding
